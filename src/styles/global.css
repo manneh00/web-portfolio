@@ -1,0 +1,184 @@
+:root {
+  --primary: #02021a;
+  --success: #29ae29;
+  --warning: #ffc62a;
+  --orange: #ed7615;
+  --lavender: #6e3cf5;
+  --sussie: #38e1f1;
+  --blue-jeans: #0082ff;
+}
+
+html {
+  font-size: 62.5%;
+}
+
+.display-2xl {
+  color: var(--primary);
+  font-feature-settings:
+    "clig" off,
+    "liga" off;
+
+  /* Display/2XL */
+  font-family: "Labil Grotesk";
+  font-size: 14.1875rem;
+  font-style: normal;
+  font-weight: 600;
+  line-height: 90%; /* 12.76875rem */
+  letter-spacing: -0.28375rem;
+}
+
+.display-xl {
+  color: var(--primary);
+  font-feature-settings:
+    "clig" off,
+    "liga" off;
+
+  /* Display/XL */
+  font-family: "Labil Grotesk";
+  font-size: 8.75rem;
+  font-style: normal;
+  font-weight: 600;
+  line-height: 110%; /* 9.625rem */
+  letter-spacing: -0.175rem;
+}
+
+.display-m {
+  color: var(--primary);
+  font-feature-settings:
+    "clig" off,
+    "liga" off;
+
+  /* Display/M */
+  font-family: "Labil Grotesk";
+  font-size: 5.25rem;
+  font-style: normal;
+  font-weight: 600;
+  line-height: 130%; /* 6.825rem */
+  letter-spacing: -0.0525rem;
+}
+
+.heading-1 {
+  color: var(--primary);
+  font-feature-settings:
+    "clig" off,
+    "liga" off;
+
+  /* Heading/H1 */
+  font-family: "Labil Grotesk";
+  font-size: 4rem;
+  font-style: normal;
+  font-weight: 600;
+  line-height: 110%; /* 4.4rem */
+  letter-spacing: -0.04rem;
+}
+
+.heading-2 {
+  color: var(--primary);
+  font-feature-settings:
+    "clig" off,
+    "liga" off;
+
+  /* Heading/H2 */
+  font-family: "Labil Grotesk";
+  font-size: 3rem;
+  font-style: normal;
+  font-weight: 600;
+  line-height: 120%; /* 3.6rem */
+  letter-spacing: -0.03rem;
+}
+
+.heading-3 {
+  color: var(--primary);
+  font-feature-settings:
+    "clig" off,
+    "liga" off;
+
+  /* Heading/H3 */
+  font-family: "Labil Grotesk";
+  font-size: 2rem;
+  font-style: normal;
+  font-weight: 600;
+  line-height: 130%; /* 2.6rem */
+  letter-spacing: -0.02rem;
+}
+
+.heading-4 {
+  color: var(--primary);
+  font-feature-settings:
+    "clig" off,
+    "liga" off;
+
+  /* Heading/H4 */
+  font-family: "Labil Grotesk";
+  font-size: 1.5rem;
+  font-style: normal;
+  font-weight: 600;
+  line-height: 130%; /* 1.95rem */
+  letter-spacing: -0.015rem;
+}
+
+.heading-5 {
+  color: var(--primary);
+  font-feature-settings:
+    "clig" off,
+    "liga" off;
+
+  /* Heading/H5 */
+  font-family: "Labil Grotesk";
+  font-size: 1.25rem;
+  font-style: normal;
+  font-weight: 600;
+  line-height: 140%; /* 1.75rem */
+  letter-spacing: -0.0125rem;
+}
+
+.heading-6 {
+  color: var(--primary);
+  font-feature-settings:
+    "clig" off,
+    "liga" off;
+
+  /* Heading/H6 */
+  font-family: "Labil Grotesk";
+  font-size: 3rem;
+  font-style: normal;
+  font-weight: 500;
+  line-height: 130%; /* 3.9rem */
+  letter-spacing: -0.03rem;
+}
+
+.body-xl {
+  color: var(--primary);
+
+  /* Body/XL */
+  font-family: "Labil Grotesk";
+  font-size: 1.25rem;
+  font-style: normal;
+  font-weight: 500;
+  line-height: 140%; /* 1.75rem */
+  letter-spacing: -0.0125rem;
+}
+
+.body-l {
+  color: var(--primary);
+
+  /* Body/XLarge/Regular */
+  font-family: "Labil Grotesk";
+  font-size: 1.125rem;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 160%; /* 1.8rem */
+  letter-spacing: -0.0225rem;
+}
+
+.body-m {
+  color: var(--primary);
+
+  /* Body/M */
+  font-family: "Labil Grotesk";
+  font-size: 0.875rem;
+  font-style: normal;
+  font-weight: 500;
+  line-height: 1.5rem; /* 171.429% */
+  letter-spacing: -0.00875rem;
+}
